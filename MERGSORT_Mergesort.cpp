@@ -40,7 +40,7 @@ void margeSort(int left, int right){
     marge(left,right,mid);
 }
 int main(){
-	code();
+	//code();
 	int n = 0, x;
 	while(cin >> x){
 		arr[n] = x;
